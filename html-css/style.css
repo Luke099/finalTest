@@ -1,0 +1,36 @@
+.link{
+    width: 90px;
+    text-align: center;
+}
+.navbar{
+    margin-top: 0px;
+}
+.btn-group{
+    margin-left: 50px;
+    text-align: right;
+}
+.top-btn{
+    margin-right: 5px;
+
+}
+.content{
+    margin-top: 50px;
+}
+img{
+    height: 200px;
+}
+.img-content{
+    
+    padding: 2px;
+}
+.title{
+    padding-left: 5px;
+}
+.body-content{
+    margin: 100px;
+}
+.body{
+    background-color: #f3f5f6
+}
+/* Important stuff for this demo. */
+
